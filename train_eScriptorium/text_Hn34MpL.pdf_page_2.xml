@@ -1,0 +1,624 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>text_Hn34MpL.pdf_page_2.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT10" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT8" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT7" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT6" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT5" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT5" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="3046"
+          HEIGHT="4229"
+          PHYSICAL_IMG_NR="1"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="3046"
+                  HEIGHT="4229">
+        
+        <TextBlock HPOS="47"
+                   VPOS="394"
+                   WIDTH="2169"
+                   HEIGHT="3315"
+                   ID="eSc_textblock_bbc1882f"
+                   >
+          <Shape><Polygon POINTS="1605 394 2197 441 2216 3014 2169 3051 1833 3042 1774 3117 928 3129 987 3167 1231 3176 1748 3148 2169 3176 2216 3326 2178 3690 2002 3690 2040 3561 1964 3540 1896 3618 1906 3681 1755 3709 65 3700 65 3195 223 3195 253 3164 84 3164 47 3108 47 479 84 404 159 394"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_663147d1"
+                    
+                    BASELINE="68 491 1546 486 2176 498" 
+                    HPOS="63"
+                    VPOS="394"
+                    WIDTH="2112"
+                    HEIGHT="134">
+            <Shape><Polygon POINTS="2072 433 2037 429 2002 426 1967 422 1931 419 1896 415 1861 415 1826 412 1790 408 1723 408 1706 398 1685 398 1649 398 1639 394 1632 405 1593 394 1579 394 1544 394 1526 394 1515 405 1466 394 1438 394 1403 394 1374 394 1339 405 1276 394 1262 394 1226 394 1198 394 1184 408 1085 408 1057 394 1050 394 1015 394 980 394 944 394 909 394 874 394 853 394 817 405 722 394 698 394 662 394 627 394 585 405 525 394 521 394 486 394 451 394 416 394 391 394 320 405 306 394 274 394 239 394 204 394 169 394 133 394 98 401 63 433 66 489 66 514 2168 528 2175 496 2072 433 2072 433"/></Shape>
+	    <String CONTENT="n̄on fuerte para ſe ꝺefender ꝺe enemigos que tanto ca"
+                    HPOS="63"
+                    VPOS="394"
+                    WIDTH="2112"
+                    HEIGHT="134"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8e59fc2a"
+                    
+                    BASELINE="65 582 1276 580 2166 596" 
+                    HPOS="59"
+                    VPOS="507"
+                    WIDTH="2105"
+                    HEIGHT="120">
+            <Shape><Polygon POINTS="63 581 59 602 2157 627 2164 595 2161 518 63 507 63 581"/></Shape>
+	    <String CONTENT="reſcian ꝺe entrañas ꝺe hombꝛes: y ſerian en el peñon y"
+                    HPOS="59"
+                    VPOS="507"
+                    WIDTH="2105"
+                    HEIGHT="120"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_938802dd"
+                    
+                    BASELINE="63 683 1511 676 2183 686" 
+                    HPOS="56"
+                    VPOS="588"
+                    WIDTH="2126"
+                    HEIGHT="137">
+            <Shape><Polygon POINTS="59 680 59 704 398 704 416 708 451 722 454 722 458 722 461 722 486 711 497 704 507 711 525 722 528 722 532 722 535 722 539 722 542 722 557 711 571 704 1191 704 1216 715 1230 722 1233 722 1237 722 1240 722 1262 715 1304 704 1381 718 1417 722 1420 722 1445 718 1508 704 1579 718 1600 722 1604 722 1607 722 1618 718 1656 704 1766 722 1787 722 1790 722 1805 722 1882 704 1903 722 1907 722 1910 722 1914 725 2178 725 2182 683 2178 609 211 588 208 588 56 609 59 680"/></Shape>
+	    <String CONTENT="auria(ſegun ꝺizẽ los teſtigos) quatro/o cinco mil yn"
+                    HPOS="56"
+                    VPOS="588"
+                    WIDTH="2126"
+                    HEIGHT="137"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5c7c1f5b"
+                    
+                    BASELINE="65 772 2171 777" 
+                    HPOS="59"
+                    VPOS="704"
+                    WIDTH="2109"
+                    HEIGHT="113">
+            <Shape><Polygon POINTS="63 771 59 796 98 814 102 814 105 817 2164 817 2168 775 2164 704 63 704 63 771"/></Shape>
+	    <String CONTENT="dios. Embía el capitan ſuſo ꝺicho a vn grande y ſeña⸗"
+                    HPOS="59"
+                    VPOS="704"
+                    WIDTH="2109"
+                    HEIGHT="113"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e50e046f"
+                    
+                    BASELINE="65 873 1372 866 2183 876" 
+                    HPOS="59"
+                    VPOS="796"
+                    WIDTH="2123"
+                    HEIGHT="116">
+            <Shape><Polygon POINTS="63 870 63 898 2175 912 2182 873 2175 796 59 796 63 870"/></Shape>
+	    <String CONTENT="lado tirano (que a muchos ꝺelos que ꝺe aquellas par"
+                    HPOS="59"
+                    VPOS="796"
+                    WIDTH="2123"
+                    HEIGHT="116"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f200cb6a"
+                    
+                    BASELINE="65 967 1718 965 2178 977" 
+                    HPOS="59"
+                    VPOS="891"
+                    WIDTH="2116"
+                    HEIGHT="116">
+            <Shape><Polygon POINTS="63 965 59 990 2168 1007 2175 976 2171 891 63 891 63 965"/></Shape>
+	    <String CONTENT="tes tienen cargo ꝺe aſſolar/haze ventaja)con cierta gê"
+                    HPOS="59"
+                    VPOS="891"
+                    WIDTH="2116"
+                    HEIGHT="116"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_dfbf36c1"
+                    
+                    BASELINE="65 1064 1252 1059 2178 1068" 
+                    HPOS="59"
+                    VPOS="986"
+                    WIDTH="2116"
+                    HEIGHT="120">
+            <Shape><Polygon POINTS="63 1060 59 1088 2168 1106 2175 1067 2171 986 63 986 63 1060"/></Shape>
+	    <String CONTENT="te ꝺe eſpañoles para que caſtigaſſe ꝺizque: los yndios"
+                    HPOS="59"
+                    VPOS="986"
+                    WIDTH="2116"
+                    HEIGHT="120"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_37800296"
+                    
+                    BASELINE="68 1153 2176 1160" 
+                    HPOS="63"
+                    VPOS="1081"
+                    WIDTH="2112"
+                    HEIGHT="113">
+            <Shape><Polygon POINTS="66 1152 63 1184 2168 1194 2175 1159 2171 1088 66 1081 66 1152"/></Shape>
+	    <String CONTENT="alçados que huyan ꝺe tan gran peſtilencia y carnice⸗"
+                    HPOS="63"
+                    VPOS="1081"
+                    WIDTH="2112"
+                    HEIGHT="113"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7f906e60"
+                    
+                    BASELINE="68 1249 2181 1256" 
+                    HPOS="63"
+                    VPOS="1177"
+                    WIDTH="2115"
+                    HEIGHT="119">
+            <Shape><Polygon POINTS="66 1247 63 1279 2171 1296 2178 1254 2175 1184 66 1177 66 1247"/></Shape>
+	    <String CONTENT="ria:como ſi ouíeran hecho alguna ſin juſticia y a ellos"
+                    HPOS="63"
+                    VPOS="1177"
+                    WIDTH="2115"
+                    HEIGHT="119"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_29779198"
+                    
+                    BASELINE="65 1348 2178 1353" 
+                    HPOS="59"
+                    VPOS="1275"
+                    WIDTH="2116"
+                    HEIGHT="117">
+            <Shape><Polygon POINTS="63 1346 59 1384 63 1388 66 1388 66 1392 70 1392 74 1392 77 1392 2171 1374 2175 1349 2171 1279 63 1275 63 1346"/></Shape>
+	    <String CONTENT="perteneciera hazer el caſtigo y tomar la vengança: ſien"
+                    HPOS="59"
+                    VPOS="1275"
+                    WIDTH="2116"
+                    HEIGHT="117"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c2bd01d3"
+                    
+                    BASELINE="70 1447 1309 1442 2178 1451" 
+                    HPOS="63"
+                    VPOS="1356"
+                    WIDTH="2112"
+                    HEIGHT="127">
+            <Shape><Polygon POINTS="66 1444 63 1469 2168 1483 2175 1448 2168 1356 66 1367 66 1444"/></Shape>
+	    <String CONTENT="do ꝺignos ellos ꝺe todo crudeliſſimo toꝛmento ſin mí"
+                    HPOS="63"
+                    VPOS="1356"
+                    WIDTH="2112"
+                    HEIGHT="127"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1915d04d"
+                    
+                    BASELINE="68 1538 2178 1543" 
+                    HPOS="63"
+                    VPOS="1466"
+                    WIDTH="2112"
+                    HEIGHT="119">
+            <Shape><Polygon POINTS="66 1536 63 1561 366 1582 370 1585 2171 1585 2175 1540 2171 1466 66 1466 66 1536"/></Shape>
+	    <String CONTENT="ſericoꝛdia:pues tan agenos ſon ꝺe ella y ꝺe piedad cõ"
+                    HPOS="63"
+                    VPOS="1466"
+                    WIDTH="2112"
+                    HEIGHT="119"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_08875ead"
+                    
+                    BASELINE="72 1635 2178 1642" 
+                    HPOS="66"
+                    VPOS="1561"
+                    WIDTH="2109"
+                    HEIGHT="120">
+            <Shape><Polygon POINTS="70 1631 66 1656 112 1673 116 1673 119 1673 793 1663 1015 1659 1078 1666 1184 1677 1188 1681 2171 1681 2175 1638 2171 1568 70 1561 70 1631"/></Shape>
+	    <String CONTENT="aquellos innocentes. Y dos los eſpañoles al peñon ſu"
+                    HPOS="66"
+                    VPOS="1561"
+                    WIDTH="2109"
+                    HEIGHT="120"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f27b5721"
+                    
+                    BASELINE="72 1733 1520 1729 2176 1740" 
+                    HPOS="66"
+                    VPOS="1656"
+                    WIDTH="2109"
+                    HEIGHT="120">
+            <Shape><Polygon POINTS="70 1730 66 1758 2168 1776 2175 1737 2171 1659 70 1656 70 1730"/></Shape>
+	    <String CONTENT="ben lo poꝛ fuerça:como los yndios ſean ꝺeſnudos y ſin"
+                    HPOS="66"
+                    VPOS="1656"
+                    WIDTH="2109"
+                    HEIGHT="120"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b5487ffa"
+                    
+                    BASELINE="68 1830 1513 1825 2164 1839" 
+                    HPOS="63"
+                    VPOS="1755"
+                    WIDTH="2098"
+                    HEIGHT="116">
+            <Shape><Polygon POINTS="66 1829 66 1857 2154 1871 2161 1836 2154 1755 63 1755 66 1829"/></Shape>
+	    <String CONTENT="armas/y llamando los eſpañoles alos yndíos ꝺe paz y"
+                    HPOS="63"
+                    VPOS="1755"
+                    WIDTH="2098"
+                    HEIGHT="116"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_41e582b3"
+                    
+                    BASELINE="70 1928 2171 1928" 
+                    HPOS="66"
+                    VPOS="1857"
+                    WIDTH="2102"
+                    HEIGHT="113">
+            <Shape><Polygon POINTS="66 1927 66 1952 2164 1970 2168 1927 2168 1857 66 1857 66 1927"/></Shape>
+	    <String CONTENT="que los aſſegurauan que no les harían mal algũo que"
+                    HPOS="66"
+                    VPOS="1857"
+                    WIDTH="2102"
+                    HEIGHT="113"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e17a0463"
+                    
+                    BASELINE="68 2022 2174 2022" 
+                    HPOS="66"
+                    VPOS="1945"
+                    WIDTH="2105"
+                    HEIGHT="120">
+            <Shape><Polygon POINTS="66 2019 66 2047 2168 2065 2171 2019 2171 1952 66 1945 66 2019"/></Shape>
+	    <String CONTENT="no peleaſſen:luego los yndios ceſſaron: manda el cru⸗"
+                    HPOS="66"
+                    VPOS="1945"
+                    WIDTH="2105"
+                    HEIGHT="120"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_dd121f05"
+                    
+                    BASELINE="65 2119 2166 2119" 
+                    HPOS="63"
+                    VPOS="2047"
+                    WIDTH="2101"
+                    HEIGHT="120">
+            <Shape><Polygon POINTS="63 2118 63 2146 574 2163 578 2163 694 2153 775 2146 824 2153 877 2163 881 2163 955 2156 1032 2146 1047 2156 1057 2163 1061 2163 1064 2163 1068 2163 1071 2163 1099 2156 1138 2146 1166 2156 1184 2163 1188 2163 1191 2163 1195 2163 1198 2163 1205 2156 1223 2146 1244 2156 1258 2163 1262 2163 1265 2163 1300 2156 1357 2146 1371 2160 1374 2160 1374 2163 1378 2163 1381 2163 1385 2167 1593 2167 1593 2163 1625 2160 1748 2146 2161 2163 2164 2118 2164 2047 63 2047 63 2118"/></Shape>
+	    <String CONTENT="deliſſimo hombꝛe alos eſpañoles que tomaſſen todas"
+                    HPOS="63"
+                    VPOS="2047"
+                    WIDTH="2101"
+                    HEIGHT="120"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0b10cfcf"
+                    
+                    BASELINE="65 2213 1584 2210 2174 2220" 
+                    HPOS="59"
+                    VPOS="2139"
+                    WIDTH="2112"
+                    HEIGHT="98">
+            <Shape><Polygon POINTS="63 2209 59 2237 2168 2234 2171 2216 2168 2142 63 2139 63 2209"/></Shape>
+	    <String CONTENT="las fuerças ꝺel peñon:⁊ tomadas/que ꝺieſſen enlos yn"
+                    HPOS="59"
+                    VPOS="2139"
+                    WIDTH="2112"
+                    HEIGHT="98"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f8ff1c8c"
+                    
+                    BASELINE="68 2309 1515 2307 2176 2316" 
+                    HPOS="63"
+                    VPOS="2234"
+                    WIDTH="2112"
+                    HEIGHT="113">
+            <Shape><Polygon POINTS="66 2308 63 2329 2168 2347 2175 2315 2171 2234 66 2234 66 2308"/></Shape>
+	    <String CONTENT="dios. Dan los Tigres y Leones enlas ouejas manſas"
+                    HPOS="63"
+                    VPOS="2234"
+                    WIDTH="2112"
+                    HEIGHT="113"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_735fe126"
+                    
+                    BASELINE="70 2412 780 2401 2171 2408" 
+                    HPOS="63"
+                    VPOS="2332"
+                    WIDTH="2105"
+                    HEIGHT="110">
+            <Shape><Polygon POINTS="66 2410 63 2424 2161 2442 2168 2407 2164 2332 66 2332 66 2410"/></Shape>
+	    <String CONTENT="y ꝺelbarrigan y meten a eſpada tantos :que ſe pararõ"
+                    HPOS="63"
+                    VPOS="2332"
+                    WIDTH="2105"
+                    HEIGHT="110"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5154fbfc"
+                    
+                    BASELINE="65 2502 1485 2497 2166 2513" 
+                    HPOS="59"
+                    VPOS="2410"
+                    WIDTH="2105"
+                    HEIGHT="134">
+            <Shape><Polygon POINTS="63 2498 59 2523 2157 2544 2164 2512 2161 2431 1082 2431 1064 2428 874 2410 870 2410 63 2424 63 2498"/></Shape>
+	    <String CONTENT="a ꝺeſcanſar: tantos eran los que auian hecho pedaços."
+                    HPOS="59"
+                    VPOS="2410"
+                    WIDTH="2105"
+                    HEIGHT="134"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ec3ae87b"
+                    
+                    BASELINE="65 2603 1494 2593 2174 2607" 
+                    HPOS="59"
+                    VPOS="2523"
+                    WIDTH="2112"
+                    HEIGHT="109">
+            <Shape><Polygon POINTS="63 2600 63 2621 2168 2632 2171 2604 2164 2523 59 2526 63 2600"/></Shape>
+	    <String CONTENT="Deſpues ꝺe auer ꝺeſcanſado vn rato: mando el capitā"
+                    HPOS="59"
+                    VPOS="2523"
+                    WIDTH="2112"
+                    HEIGHT="109"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_492bbf2b"
+                    
+                    BASELINE="68 2697 1574 2690 2159 2706" 
+                    HPOS="63"
+                    VPOS="2604"
+                    WIDTH="2094"
+                    HEIGHT="130">
+            <Shape><Polygon POINTS="66 2695 66 2720 2150 2734 2157 2703 2154 2621 324 2604 320 2604 63 2621 66 2695"/></Shape>
+	    <String CONTENT="que mataſſen y ꝺeſpeñaſſen ꝺel peñon abajo q̃ era muy"
+                    HPOS="63"
+                    VPOS="2604"
+                    WIDTH="2094"
+                    HEIGHT="130"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_82912e3a"
+                    
+                    BASELINE="63 2791 1537 2786 2171 2798" 
+                    HPOS="56"
+                    VPOS="2717"
+                    WIDTH="2112"
+                    HEIGHT="112">
+            <Shape><Polygon POINTS="59 2787 56 2812 2161 2829 2168 2794 2164 2717 59 2717 59 2787"/></Shape>
+	    <String CONTENT="alto: toda la gente que biua quedaua. Y aſſi la ꝺeſpeña"
+                    HPOS="56"
+                    VPOS="2717"
+                    WIDTH="2112"
+                    HEIGHT="112"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b86af68f"
+                    
+                    BASELINE="68 2882 2166 2889" 
+                    HPOS="63"
+                    VPOS="2808"
+                    WIDTH="2101"
+                    HEIGHT="120">
+            <Shape><Polygon POINTS="66 2879 63 2903 176 2925 179 2925 754 2914 951 2910 2157 2928 2164 2886 2161 2815 66 2808 66 2879"/></Shape>
+	    <String CONTENT="ron toda :⁊ ꝺizen los teſtigos que veyan nuuada ꝺe yn"
+                    HPOS="63"
+                    VPOS="2808"
+                    WIDTH="2101"
+                    HEIGHT="120"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9b8ca896"
+                    
+                    BASELINE="65 2981 1330 2976 2164 2986" 
+                    HPOS="59"
+                    VPOS="2903"
+                    WIDTH="2102"
+                    HEIGHT="120">
+            <Shape><Polygon POINTS="63 2977 59 2995 359 3020 363 3020 574 3002 599 3002 620 3002 740 3020 743 3023 1022 3023 1022 3020 1025 3020 1029 3020 1043 3009 1050 3002 1085 3009 1145 3020 1149 3020 1152 3020 1173 3009 1191 3002 2154 3020 2161 2984 2157 2910 63 2903 63 2977"/></Shape>
+	    <String CONTENT="dios echados ꝺel peñon abajo ꝺe ſetecientos hombꝛes"
+                    HPOS="59"
+                    VPOS="2903"
+                    WIDTH="2102"
+                    HEIGHT="120"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9d86a888"
+                    
+                    BASELINE="65 3082 1760 3077" 
+                    HPOS="59"
+                    VPOS="2984"
+                    WIDTH="1700"
+                    HEIGHT="134">
+            <Shape><Polygon POINTS="63 3080 63 3104 1752 3118 1759 3076 1752 3006 613 2984 609 2984 511 3002 433 2984 430 2984 426 2984 148 3002 91 2984 88 2984 84 2984 81 2984 77 2984 59 2999 63 3080"/></Shape>
+	    <String CONTENT="juntos que cayan ꝺonde ſe hazian pedaços."
+                    HPOS="59"
+                    VPOS="2984"
+                    WIDTH="1700"
+                    HEIGHT="134"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_39ad0d93"
+                    
+                    BASELINE="77 3272 2164 3272" 
+                    HPOS="74"
+                    VPOS="3189"
+                    WIDTH="2087"
+                    HEIGHT="134">
+            <Shape><Polygon POINTS="215 3196 179 3196 144 3196 109 3196 74 3196 74 3270 74 3298 133 3319 137 3319 141 3319 232 3302 278 3319 282 3319 285 3319 289 3319 345 3302 349 3302 352 3302 384 3319 387 3319 391 3319 394 3319 444 3302 451 3302 479 3305 620 3319 624 3319 627 3319 676 3305 694 3302 701 3305 719 3319 722 3319 726 3319 729 3319 733 3319 736 3319 750 3305 761 3302 891 3302 898 3309 909 3316 909 3319 913 3319 916 3319 920 3323 1089 3323 1089 3319 1092 3319 1096 3319 1106 3309 1114 3302 1138 3309 1166 3319 1170 3319 1173 3319 1230 3312 1297 3302 1339 3312 1364 3319 1367 3319 1371 3319 1374 3319 1378 3319 1385 3312 1406 3302 1424 3312 1431 3319 1434 3319 1438 3319 1441 3319 1445 3319 1448 3319 1456 3312 1477 3302 1533 3316 1558 3319 1561 3319 1593 3316 1671 3302 2157 3319 2161 3270 2161 3196 222 3189 215 3196"/></Shape>
+	    <String CONTENT="¶y poꝛ conſumar ꝺel todo ſu gran crueldad:rebuſca⸗"
+                    HPOS="74"
+                    VPOS="3189"
+                    WIDTH="2087"
+                    HEIGHT="134"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bdd377c3"
+                    
+                    BASELINE="65 3362 2166 3371" 
+                    HPOS="59"
+                    VPOS="3288"
+                    WIDTH="2105"
+                    HEIGHT="126">
+            <Shape><Polygon POINTS="63 3358 59 3393 1047 3411 1050 3411 1054 3411 1071 3404 1114 3393 1177 3407 1205 3411 1209 3411 1212 3411 1216 3411 1219 3407 1244 3393 1329 3407 1353 3411 1357 3411 1378 3407 1463 3393 1568 3411 1582 3411 1586 3411 1600 3411 1695 3397 1716 3411 1720 3414 1723 3414 1727 3414 1731 3414 1780 3411 1995 3397 2157 3414 2164 3369 2161 3298 63 3288 63 3358"/></Shape>
+	    <String CONTENT="ron todos los yndios que ſe auian eſcondido entre las"
+                    HPOS="59"
+                    VPOS="3288"
+                    WIDTH="2105"
+                    HEIGHT="126"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ca6484f1"
+                    
+                    BASELINE="68 3460 1532 3458 2166 3470" 
+                    HPOS="63"
+                    VPOS="3390"
+                    WIDTH="2101"
+                    HEIGHT="116">
+            <Shape><Polygon POINTS="66 3457 63 3495 694 3485 867 3503 884 3503 888 3506 2161 3506 2164 3467 2161 3390 91 3390 66 3457"/></Shape>
+	    <String CONTENT="matas :y mando que a todos les ꝺieſſen ꝺe eſtocadas"
+                    HPOS="63"
+                    VPOS="3390"
+                    WIDTH="2101"
+                    HEIGHT="116"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_855b3aac"
+                    
+                    BASELINE="75 3557 1478 3552 2166 3566" 
+                    HPOS="70"
+                    VPOS="3467"
+                    WIDTH="2094"
+                    HEIGHT="124">
+            <Shape><Polygon POINTS="2009 3555 1974 3545 1939 3555 1910 3485 200 3467 197 3467 70 3488 74 3555 74 3580 2157 3591 2164 3562 2161 3488 2034 3485 2009 3555"/></Shape>
+	    <String CONTENT="y aſſi los mataron y echaron ꝺelas peñas abajo. Hun"
+                    HPOS="70"
+                    VPOS="3467"
+                    WIDTH="2094"
+                    HEIGHT="124"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_26243661"
+                    
+                    BASELINE="68 3653 2166 3660" 
+                    HPOS="63"
+                    VPOS="3562"
+                    WIDTH="2101"
+                    HEIGHT="180">
+            <Shape><Polygon POINTS="2005 3651 1977 3577 1931 3573 1900 3633 1868 3573 1716 3566 1713 3566 1582 3584 1579 3584 1575 3584 1523 3566 1519 3566 1515 3566 1378 3584 1371 3584 1367 3584 1297 3566 1293 3566 1290 3566 1286 3566 1248 3584 1244 3584 1237 3584 1114 3562 1110 3562 91 3580 66 3651 63 3710 126 3739 130 3739 133 3739 137 3739 172 3721 380 3739 384 3739 387 3739 391 3739 426 3714 557 3739 560 3742 680 3742 680 3739 683 3739 687 3739 722 3714 832 3714 895 3739 898 3739 902 3739 1075 3714 1089 3714 1096 3714 1170 3742 1173 3742 1177 3742 1286 3717 1357 3742 1360 3742 1364 3742 1558 3717 1579 3717 1864 3717 1875 3721 1924 3742 1928 3742 1931 3742 2161 3721 2164 3658 2161 3587 2030 3580 2005 3651"/></Shape>
+	    <String CONTENT="no quiſo contentarſe con las coſas tan crueles ya ꝺi⸗"
+                    HPOS="63"
+                    VPOS="3562"
+                    WIDTH="2101"
+                    HEIGHT="180"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1908"
+                   VPOS="3505"
+                   WIDTH="186"
+                   HEIGHT="157"
+                   ID="eSc_textblock_d6c51950"
+                   >
+          <Shape><Polygon POINTS="2094 3571 2037 3662 1908 3634 1927 3533 1974 3505"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1893"
+                   VPOS="3672"
+                   WIDTH="26"
+                   HEIGHT="45"
+                   ID="eSc_textblock_0d5eba77"
+                   >
+          <Shape><Polygon POINTS="1919 3672 1919 3717 1893 3717 1893 3672"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
