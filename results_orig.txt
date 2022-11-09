@@ -1,19 +1,19 @@
 Loading model models/modele_finetuned_1.mlmodel	✓
 Evaluating models/modele_finetuned_1.mlmodel
-Evaluating ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% 129/129 0:00:00 0:02:03
+Evaluating ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% 129/129 0:00:00 0:02:01
 === report  ===
 
-8514	Characters
+8437	Characters
 619	Errors
-92.73%	Accuracy
+92.66%	Accuracy
 
-125	Insertions
+126	Insertions
 121	Deletions
-373	Substitutions
+372	Substitutions
 
 Count	Missed	%Right
-6844	370	94.59%	Latin
-1625	91	94.40%	Common
+6786	370	94.55%	Latin
+1606	91	94.33%	Common
 42	34	19.05%	Inherited
 3	3	0.00%	Greek
 
@@ -27,7 +27,7 @@ Errors	Correct-Generated
 18	{ COMBINING TILDE } - {  }
 16	{ d } - { h }
 15	{ d } - { a }
-14	{ ñ } - { n }
+13	{ ñ } - { n }
 11	{ g } - { z }
 10	{ COMBINING HOOK ABOVE } - {  }
 10	{ / } - {  }
@@ -49,7 +49,7 @@ Errors	Correct-Generated
 3	{ t } - { i }
 3	{  } - { b }
 3	{ v } - { y }
-3	{  } - { n }
+3	{  } - { A }
 3	{ ꝺ } - { d }
 3	{ d } - { A }
 3	{ s } - {  }
@@ -69,8 +69,10 @@ Errors	Correct-Generated
 2	{ COMBINING CEDILLA } - {  }
 2	{ d } - {  }
 2	{ t } - { l }
-2	{  } - { A }
+2	{ s } - { z }
+2	{ g } - {  }
 2	{ C } - {  }
+2	{  } - { n }
 2	{ ſ } - { s }
 2	{ S } - { z }
 2	{ A } - { E }
@@ -79,7 +81,6 @@ Errors	Correct-Generated
 2	{ t } - { r }
 2	{ , } - {  }
 2	{ õ } - { o }
-2	{ m } - { u }
 2	{ ç } - { c }
 2	{ L } - { T }
 2	{ i } - {  }
@@ -115,8 +116,6 @@ Errors	Correct-Generated
 1	{  } - { u }
 1	{ t } - { m }
 1	{ u } - {  }
-1	{ s } - { z }
-1	{ g } - {  }
 1	{ D } - { O }
 1	{ o } - {  }
 1	{ u } - { i }
@@ -166,6 +165,7 @@ Errors	Correct-Generated
 1	{ b } - { h }
 1	{ r } - { t }
 1	{ ſ } - {  }
+1	{ m } - { u }
 1	{ : } - { SPACE }
 1	{ ẽ } - { E }
 1	{ ⸗ } - { s }
@@ -176,4 +176,4 @@ Errors	Correct-Generated
 1	{ p } - { v }
 1	{ ũ } - { n }
 
-Average accuracy: 92.73%, (stddev: 0.00)
+Average accuracy: 92.66%, (stddev: 0.00)
